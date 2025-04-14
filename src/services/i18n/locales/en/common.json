@@ -24,7 +24,11 @@
       "dropzoneText": "Drop the image here ...",
       "dragAndDrop": "Or drag 'n' drop some images here",
       "selectFile": "Select an image"
-    }
+    },
+    {
+  "title": "Your App Title",
+  ... (keep existing keys)
+}
   },
   "leavePage": {
     "title": "Leave this page?",
